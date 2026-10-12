@@ -4,7 +4,7 @@ description: Part of the Cancel Cancer kit by Benefits (episode 14 of 14). Gathe
 compatibility: Works in any Claude chat on a paid plan. A connected computer folder is needed to read the documents behind each call and save the split and pages with print copies. Code execution and file creation (in Settings) makes the PDF, or the HTML copy prints from the browser. Notion is optional. On the phone, pages come as WhatsApp text. Never calls or sends. Writes to Notion only tasks, owners, what came back from calls, an appointment set in one, a family member after a yes, and one pending row.
 metadata:
   kit: "cancel-cancer"
-  kit-version: "1.0.0"
+  kit-version: "1.0.1"
   skill-version: "1.0.0"
   contract: "1"
   episode: "14"
@@ -14,7 +14,7 @@ metadata:
 
 # Cancel Cancer · כולם בשביל אחת (פרק 14)
 
-**שורת הגרסה:** cancel-cancer-family 1.0.0 · ערכה 1.0.0 · חוזה 1
+**שורת הגרסה:** cancel-cancer-family 1.0.0 · ערכה 1.0.1 · חוזה 1
 
 הסקיל הזה אוסף את כל המשימות הפתוחות למקום אחד, ומחלק אותן בין בני המשפחה לפי תחום אחריות, כך שכל אחד עושה סבב טלפונים בתחום אחד. לכל אחד יש דף אחד: למי מתקשרים, מה אומרים, מה שואלים ומה צריך לברר, לפי נושאים. כשמסיימים, מסמנים ומחזירים, והסקיל מעדכן בנושן לכולם. זה הסקיל האחרון בערכה.
 

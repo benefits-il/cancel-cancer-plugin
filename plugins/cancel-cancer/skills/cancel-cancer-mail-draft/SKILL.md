@@ -4,7 +4,7 @@ description: Part of the Cancel Cancer kit by Benefits (episode 6 of 14). Prepar
 compatibility: Needs the Gmail connector, connected under Customize, Connectors. A computer folder connected to the conversation and the Notion connector are optional. Without Gmail the draft is shown to copy. Creates drafts only, and never sends, replies, forwards, changes or deletes a draft.
 metadata:
   kit: "cancel-cancer"
-  kit-version: "1.0.0"
+  kit-version: "1.0.1"
   skill-version: "1.0.0"
   contract: "1"
   episode: "6"
@@ -14,7 +14,7 @@ metadata:
 
 # Cancel Cancer · המייל: ניסוח (פרק 6)
 
-**שורת הגרסה:** cancel-cancer-mail-draft 1.0.0 · ערכה 1.0.0 · חוזה 1
+**שורת הגרסה:** cancel-cancer-mail-draft 1.0.0 · ערכה 1.0.1 · חוזה 1
 
 הסקיל הזה מכין מייל כטיוטה ב-Gmail: לרופא, למוסד או לחברת ביטוח, או לכל מי שצריך. הוא בוחר מסמכים מהתיקייה לפי תאריכים או לפי מספר, כותב סיכום קצר רק מתוך המסמכים, ומסמן בסוגריים מה חסר. בצ'אט המשתמש מקבל רשימה ממוספרת של הקבצים לצרף. מתחת לטיוטה, בצ'אט, יש רשימה "לבדוק מול הנייר לפני השליחה": כל תרופה, מינון, ערך ותאריך שבטיוטה, עם מספר המסמך. הטיוטה נשארת ב-Drafts, והמשתמש מצרף, עובר ושולח.
 
